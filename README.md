@@ -5,7 +5,7 @@ Exemplo de smoke test utilizando o [Newman](https://learning.getpostman.com/docs
 ## Utilização
 
 ```
-newman users.json
+newman run users.json
 ```
 
 ![](https://github.com/vcamaral/newman-smoke-testing/blob/master/images/newman.png)
