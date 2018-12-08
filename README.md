@@ -1,6 +1,6 @@
 # newman-smoke-testing
 
-Exemplo de smoke test utilizando o [Newman](https://learning.getpostman.com/docs/postman/collection_runs/command_line_integration_with_newman/).
+Exemplo de smoke testing utilizando o [Newman](https://learning.getpostman.com/docs/postman/collection_runs/command_line_integration_with_newman/) (Postman Collection Runner).
 
 ## Utilização
 
